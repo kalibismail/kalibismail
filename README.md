@@ -1,4 +1,4 @@
-<a href="https://kalibismail.com"><img src="assets/banner.svg" width="100%" alt="Kalib Ismail, software developer. I build 3D tools for the browser."></a>
+<a href="https://kalibismail.com"><img src="assets/banner-v2.svg" width="100%" alt="Kalib Ismail, software developer. I build 3D tools for the browser."></a>
 
 <p align="center">
   <a href="https://kalibismail.com"><img src="https://img.shields.io/badge/kalibismail.com-step_inside-f0705a?style=for-the-badge&labelColor=2a2530" alt="Portfolio"></a>
