@@ -23,11 +23,4 @@ Have a look around my portfolio at **[kalibismail.com](https://kalibismail.com)*
   <img src="https://skillicons.dev/icons?i=ts,react,threejs,nodejs,postgres,cloudflare,docker,linux,python,bun&theme=dark" alt="TypeScript, React, three.js, Node, PostgreSQL, Cloudflare, Docker, Linux, Python, Bun">
 </p>
 
-### 🐍 The last year
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalibismail/kalibismail/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/kalibismail/kalibismail/output/snake-light.svg" width="100%" alt="Contribution graph being eaten by a snake">
-</picture>
-
-<sub>Most of my work lives in private repos (client work and products in progress), so the graph is greener than the repo list. Happy to walk through any of it on a call.</sub>
+<sub>Most of my work lives in private repos (client work and products in progress), so there is more going on than the repo list shows. Happy to walk through any of it on a call.</sub>
