@@ -8,40 +8,14 @@
 
 By day I build **Playfigurator** at Moduplay: a 3D playground design tool in the browser, where most of the editor, the 3D and the geometry is mine. On the side I co-founded **CSL Media**, a web studio that runs on a delivery pipeline I built. I'm finishing a Software Engineering (Honours) degree at UNSW, graduating December 2026.
 
-### 🏠 My portfolio is a room you can walk around
-
-<a href="https://kalibismail.com"><img src="assets/room.jpg" width="100%" alt="kalibismail.com: a low-poly 3D studio room with Kalib at his desk solving a Rubik's cube"></a>
-
-<sub>Built with react-three-fiber and hand-written GLSL. That's me at the desk, solving a fresh scramble every loop with CFOP, each turn fingered the way I actually do it.</sub>
+Have a look around my portfolio at **[kalibismail.com](https://kalibismail.com)**: a low-poly 3D room, built with react-three-fiber and hand-written GLSL, with me at the desk solving a Rubik's cube.
 
 ### 🛠️ What I'm working on
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://kalibismail.com"><img src="assets/playfigurator.jpg" width="100%" alt="Playfigurator"></a>
-<b>Playfigurator</b> · <sub>Moduplay</sub><br>
-Pick some play equipment, click once, and it packs itself in with the safety surfacing drawn around it. three.js, shaders, a lot of geometry.
-</td>
-<td width="50%" valign="top">
-<a href="https://kalibismail.com"><img src="assets/csl.jpg" width="100%" alt="CSL Media delivery pipeline"></a>
-<b>CSL Media</b> · <sub>co-founder and engineer</sub><br>
-Websites and CRMs for Australian small businesses, built by a chain of AI-agent steps with checks on every build. A person still signs off every site.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://kalibismail.com"><img src="assets/thesis.jpg" width="100%" alt="Honours thesis"></a>
-<b>Honours thesis</b> · <sub>UNSW, High Distinction</sub><br>
-A year testing a pseudocode loop for LLM code generation across 8,652 runs. It lost to plain prompting, and that's what I wrote up.
-</td>
-<td width="50%" valign="top">
-<a href="https://hoik.app"><img src="assets/gymmetry.jpg" width="100%" alt="Hoik gym log"></a>
-<b>Hoik</b> · <sub>on its way to the stores</sub><br>
-A gym log for iPhone, Android and the web that adjusts your next set and acts out each exercise on a 3D muscle model.
-</td>
-</tr>
-</table>
+- **Playfigurator** · Moduplay. Pick some play equipment, click once, and it packs itself in with the safety surfacing drawn around it.
+- **CSL Media** · co-founder and engineer. Websites and CRMs for Australian small businesses, built by a chain of AI-agent steps with checks on every build. A person still signs off every site.
+- **Honours thesis** · UNSW, High Distinction. A year testing a pseudocode loop for LLM code generation across 8,652 runs. It lost to plain prompting, and that's what I wrote up.
+- **[Hoik](https://hoik.app)** · on its way to the stores. A gym log for iPhone, Android and the web that adjusts your next set and acts out each exercise on a 3D muscle model.
 
 ### 🧰 Tools I reach for
 
