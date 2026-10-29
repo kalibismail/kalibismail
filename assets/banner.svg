@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b2238"/><stop offset="1" stop-color="#1b1624"/></linearGradient>
+<radialGradient id="glow" cx="0.82" cy="0.5" r="0.4"><stop offset="0" stop-color="#e8935a" stop-opacity=".35"/><stop offset="1" stop-color="#e8935a" stop-opacity="0"/></radialGradient>
+<style>
+.k{font:600 13px ui-monospace,Menlo,Consolas,monospace;letter-spacing:4px;fill:#e8935a}
+.n{font:700 76px Georgia,'Times New Roman',serif;fill:#f3e9dc}
+.t{font:400 21px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#cdbfd6}
+.f{opacity:0;animation:in .9s ease-out forwards}
+.d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.cube{transform-origin:990px 150px;animation:spin 9s ease-in-out infinite}
+@keyframes spin{0%,20%{transform:rotate(0)}30%,50%{transform:rotate(90deg)}60%,80%{transform:rotate(180deg)}90%,100%{transform:rotate(360deg)}}
+.s{stroke:#1b1624;stroke-width:3}
+.blink{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+</style>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+<g class="f d1"><text x="64" y="96" class="k">SOFTWARE DEVELOPER</text></g>
+<g class="f d2"><text x="60" y="176" class="n">Kalib Ismail</text></g>
+<g class="f d3"><text x="64" y="224" class="t">I build 3D tools for the browser, and the geometry and</text><text x="64" y="252" class="t">shaders underneath them.<tspan class="blink" fill="#e8935a"> ▍</tspan></text></g>
+<g class="cube">
+<g transform="translate(990 150)">
+<polygon class="s" points="0,-90 78,-45 0,0 -78,-45" fill="#f3e9dc"/>
+<polygon class="s" points="-78,-45 0,0 0,90 -78,45" fill="#e8935a"/>
+<polygon class="s" points="78,-45 0,0 0,90 78,45" fill="#3fae8c"/>
+<g stroke="#1b1624" stroke-width="3" fill="none">
+<path d="M26,-75 L-52,-30 M52,-60 L-26,-15 M-26,-75 L52,-30 M-52,-60 L26,-15"/>
+<path d="M-78,-15 L0,30 M-78,15 L0,60 M-52,-30 L-52,60 M-26,-15 L-26,75"/>
+<path d="M78,-15 L0,30 M78,15 L0,60 M52,-30 L52,60 M26,-15 L26,75"/>
+</g>
+</g>
+</g>
+</svg>
