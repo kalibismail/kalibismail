@@ -1,9 +1,9 @@
 <a href="https://kalibismail.com"><img src="assets/banner.svg" width="100%" alt="Kalib Ismail, software developer. I build 3D tools for the browser."></a>
 
 <p align="center">
-  <a href="https://kalibismail.com"><img src="https://img.shields.io/badge/kalibismail.com-step_inside-e8935a?style=for-the-badge&labelColor=2b2238" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/kalib-ismail-07346a271"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&labelColor=2b2238" alt="LinkedIn"></a>
-  <a href="mailto:contact@kalibismail.com"><img src="https://img.shields.io/badge/Email-say_hi-3fae8c?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=2b2238" alt="Email"></a>
+  <a href="https://kalibismail.com"><img src="https://img.shields.io/badge/kalibismail.com-step_inside-f0705a?style=for-the-badge&labelColor=2a2530" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/kalib-ismail-07346a271"><img src="https://img.shields.io/badge/LinkedIn-connect-4f8a5b?style=for-the-badge&logo=linkedin&labelColor=2a2530" alt="LinkedIn"></a>
+  <a href="mailto:contact@kalibismail.com"><img src="https://img.shields.io/badge/Email-say_hi-f2a541?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=2a2530" alt="Email"></a>
 </p>
 
 By day I build **Playfigurator** at Moduplay: a 3D playground design tool in the browser, where most of the editor, the 3D and the geometry is mine. On the side I co-founded **CSL Media**, a web studio that runs on a delivery pipeline I built. I'm finishing a Software Engineering (Honours) degree at UNSW, graduating December 2026.
